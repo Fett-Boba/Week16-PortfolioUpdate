@@ -1,6 +1,11 @@
 # Week16-PortfolioUpdate
 
 
+## Link to Portfolio
+
+https://fett-boba.github.io/Week16-PortfolioUpdate/
+
+
 ## Description
 - Portfolio features Project 1 and 2, and some additional exemplary homework assignments.
 - The portfolio is a mobile-first design.
