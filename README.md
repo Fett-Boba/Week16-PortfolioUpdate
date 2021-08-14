@@ -12,6 +12,6 @@
 
 ## Screenprints 
  
-![Screen capture demonstrating mobile friendly design](assets/img/screenprint.png)
+![Screen capture demonstrating mobile friendly design](assets/img/screenprint.PNG)
 
 ---
